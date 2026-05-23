@@ -88,4 +88,4 @@ Synthetic educational dataset based on patterns reported in the literature on te
 
 ## 👤 Author
 
-Your Name — [LinkedIn](https://linkedin.com/in/your-handle) — [GitHub](https://github.com/your-handle)
+Mykyta Heorhanov — [LinkedIn](https://www.linkedin.com/in/mykyta-heorhanov-a8131040a/) — [GitHub](https://github.com/dipoqq)
